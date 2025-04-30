@@ -5,7 +5,7 @@
 - **Members:**
   - Wilson Nguyen [@dakarie](https://github.com/dakarie/MIST-4610-Group-Project-2/tree/main)
   - Akshaya Ezhil [@githubhandle2](https://github.com/githubhandle2)
-  - Justen Newsom [@githubhandle3](https://github.com/githubhandle3)
+  - Justen Newsom [@justennewsom](https://github.com/justennewsom)
   - Shahil Patel [@githubhandle4](https://github.com/githubhandle4)
   - Josh Gershon [@githubhandle4](https://github.com/githubhandle4)
 
